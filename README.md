@@ -66,7 +66,7 @@ Hoje o `agent.py` só imprime o nome da tool e os argumentos (`print(name, args)
 
 Pode ser print formatado, escrita em arquivo, o que preferir. O importante é o registro ficar completo e legível, porque você vai anexá-lo à análise.
 
-### 2. Rodar contra o bug
+### 2. Executar o agente e experimentar com o código com bug
 
 ```bash
 python agent.py
